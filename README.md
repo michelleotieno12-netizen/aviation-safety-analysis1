@@ -54,3 +54,28 @@ Manufacturers with a sufficient number of recorded incidents were prioritized to
 - These findings can guide initial aircraft selection decisions, subject to further operational and financial considerations.
 
 
+### RECOMENDATIONS
+
+### Recommendation 1: Prioritize Aircraft from Lower-Risk Manufacturers
+Analysis shows that certain aircraft manufacturers are associated with significantly lower average injury counts per accident. The company should prioritize aircraft purchases from these manufacturers to reduce safety risk and potential liability exposure.
+
+**Business Impact:** Lower injury severity reduces operational risk, insurance costs, and reputational damage.
+
+---
+
+### Recommendation 2: Avoid Decisions Based Solely on Accident Frequency
+Some aircraft manufacturers appear frequently in accident records due to high usage rates, not necessarily poor safety performance. Decision-making should focus on accident severity metrics rather than raw accident counts.
+
+**Business Impact:** Prevents incorrectly excluding widely used but safe aircraft from consideration.
+
+---
+
+### Recommendation 3: Use Injury Severity as a Core Safety Metric
+Average injury count per accident provides a more actionable measure of risk than accident occurrence alone. This metric should be incorporated into ongoing aircraft evaluation and procurement processes.
+
+**Business Impact:** Enables consistent, data-driven safety assessments for future aircraft acquisitions.
+
+### Additional Visual Insights
+
+Several supporting visualizations were created to contextualize aircraft risk. A scatter plot comparing accident frequency and injury severity highlights why severity-based metrics are more meaningful than raw counts. A stacked bar chart illustrates differences in injury types among lower-risk manufacturers, emphasizing fatal and serious injury reduction. Finally, a time-series view shows how injury severity has evolved over time, supporting long-term strategic planning.
+
