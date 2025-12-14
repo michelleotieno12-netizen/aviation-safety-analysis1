@@ -41,6 +41,16 @@ To support meaningful risk analysis, the dataset was reduced to columns relevant
 
 Injury-related fields were converted to numeric values, and missing injury counts were replaced with zeros under the assumption that unreported values indicate no injuries. A total injury metric was created to serve as a proxy for accident severity.
 
+## Exploratory Data Analysis
 
+To evaluate aircraft safety risk, accident records were aggregated by aircraft manufacturer. Risk was assessed using the average number of injuries per accident, serving as a proxy for accident severity.
+
+Manufacturers with a sufficient number of recorded incidents were prioritized to ensure meaningful comparisons. The analysis highlights aircraft manufacturers that are associated with lower average injury counts per accident, suggesting lower operational risk relative to peers.
+
+### Initial Insights
+
+- Some aircraft manufacturers show consistently lower average injury counts per accident.
+- Accident frequency alone does not indicate risk; injury severity provides more actionable insight.
+- These findings can guide initial aircraft selection decisions, subject to further operational and financial considerations.
 
 
