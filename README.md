@@ -22,3 +22,4 @@ The company is expanding into the aviation industry and needs to make informed d
 
 The goal of this project is to analyze aviation accident data to identify aircraft types and manufacturers associated with fewer and less severe accidents. These insights will support data-driven aircraft acquisition decisions and help minimize operational risk as the company enters the aviation market.
 
+
