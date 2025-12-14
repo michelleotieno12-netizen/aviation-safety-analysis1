@@ -35,6 +35,11 @@ Exploratory data analysis, aggregation, and visualization will be used to identi
 ## Conclusion
 This analysis provides three actionable recommendations to guide aircraft acquisition decisions.
 
+## Data Preparation
+
+To support meaningful risk analysis, the dataset was reduced to columns relevant to aircraft identification and injury severity. Records missing aircraft make or model information were removed, as these entries could not support aircraft-level risk assessment.
+
+Injury-related fields were converted to numeric values, and missing injury counts were replaced with zeros under the assumption that unreported values indicate no injuries. A total injury metric was created to serve as a proxy for accident severity.
 
 
 
