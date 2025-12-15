@@ -79,3 +79,10 @@ Average injury count per accident provides a more actionable measure of risk tha
 
 Several supporting visualizations were created to contextualize aircraft risk. A scatter plot comparing accident frequency and injury severity highlights why severity-based metrics are more meaningful than raw counts. A stacked bar chart illustrates differences in injury types among lower-risk manufacturers, emphasizing fatal and serious injury reduction. Finally, a time-series view shows how injury severity has evolved over time, supporting long-term strategic planning.
 
+
+## Interactive Dashboard
+
+An interactive Tableau dashboard was created to allow stakeholders to explore aviation safety risk by manufacturer, injury severity, and trends over time.
+
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/eve.michelle/viz/AviationSafetyRiskAnalysis/Dashboard1?publish=yes )
+
